@@ -10,7 +10,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+#dist/
 downloads/
 eggs/
 .eggs/
@@ -170,3 +170,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 /build
+/dist/ThroneAndLiberty_ServerStatusCheck
+/ThroneAndLiberty_ServerStatusCheck.spec

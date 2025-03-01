@@ -11,7 +11,7 @@ https://www.playthroneandliberty.com/ja-jp/support/server-status
 
 # 実行方法
 Windowsで<br>
-`dist/ThroneAndLiberty_ServerStatusCheck.exe`<br>
+`dist/ThroneAndLiberty_ServerStatusCheck/ThroneAndLiberty_ServerStatusCheck.exe`<br>
 を実行してください。<br>
 Python実行環境があれば<br>
 `ThroneAndLiberty_ServerStatusCheck.py`<br>
